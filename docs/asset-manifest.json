@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.4924210c.css",
-    "main.js": "/static/js/main.7b8724e2.js",
-    "index.html": "/index.html",
-    "main.4924210c.css.map": "/static/css/main.4924210c.css.map",
-    "main.7b8724e2.js.map": "/static/js/main.7b8724e2.js.map"
+    "main.css": "/shoply/static/css/main.4924210c.css",
+    "main.js": "/shoply/static/js/main.3155391d.js",
+    "index.html": "/shoply/index.html",
+    "main.4924210c.css.map": "/shoply/static/css/main.4924210c.css.map",
+    "main.3155391d.js.map": "/shoply/static/js/main.3155391d.js.map"
   },
   "entrypoints": [
     "static/css/main.4924210c.css",
-    "static/js/main.7b8724e2.js"
+    "static/js/main.3155391d.js"
   ]
 }
